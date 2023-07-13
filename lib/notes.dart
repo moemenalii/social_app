@@ -1,0 +1,1 @@
+// gradlew.bat  clickright and open in terminal and write ./gradlew signingReport for SH1
